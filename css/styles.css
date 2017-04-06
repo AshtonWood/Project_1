@@ -1,5 +1,23 @@
 h1 {
-    color:blue;
-    font-family: cursive;
-    font-size; 40px;
+    color:black;
+    font-family: bold;
+    font-size; 30px;
+}
+
+.image-center{
+     margin: 0 auto;
+     
+}
+
+.border-color{
+     border: 2px solid black;
+}
+
+.modal-body>p{
+    font-size; 20px;
+    color:black;
+}
+     
+.container-fluid{
+    padding: 0;
 }
